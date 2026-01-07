@@ -1,7 +1,7 @@
 #  ﾟ⋆ ˚｡⋆
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scognamiglioo&layout=compact&langs_count=7&theme=shadow_green"/>
+ 
   <img height="150em" src="https://i.pinimg.com/originals/76/cd/8a/76cd8a854d7e19e247a6e2594b5a80ac.gif">
     
     
